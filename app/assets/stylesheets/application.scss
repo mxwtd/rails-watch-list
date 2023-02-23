@@ -10,3 +10,33 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+}
+
+#new-list-container {
+  border-radius: 1.5rem !important;
+  background-color: rgb(49, 49, 49) !important;
+  color: #fff !important;
+}
+
+#add-review-container {
+  border-radius: 1.5rem !important;
+  background-color: rgb(49, 49, 49) !important;
+  color: #fff !important;
+}
+
+.form-control {
+  background-color: rgb(49, 49, 49) !important;
+  border-radius: 1rem;
+  color: #fff !important;
+}
+
+.form-select  {
+  background-color: rgb(49, 49, 49) !important;
+  border-radius: 0.5rem;
+  color: #fff !important;
+}
